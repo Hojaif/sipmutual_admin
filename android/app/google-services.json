@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618926908230",
+    "project_id": "siperring",
+    "storage_bucket": "siperring.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618926908230:android:b89b283235402fbb1abb47",
+        "android_client_info": {
+          "package_name": "com.example.sip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rfG_hg2Rmv3aN7mZvUiIKdMCtqcaZOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618926908230:android:dd62a251eb122c561abb47",
+        "android_client_info": {
+          "package_name": "com.example.sipn_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rfG_hg2Rmv3aN7mZvUiIKdMCtqcaZOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
